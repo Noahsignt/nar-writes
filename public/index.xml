@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
+    <title>Nar Writes</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <description>Recent content on Nar Writes</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 26 Apr 2025 15:35:00 +1000</lastBuildDate>
@@ -13,7 +13,7 @@
       <link>http://localhost:1313/posts/glenbrook-gorge-night/</link>
       <pubDate>Sat, 26 Apr 2025 15:35:00 +1000</pubDate>
       <guid>http://localhost:1313/posts/glenbrook-gorge-night/</guid>
-      <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;I am getting married on Tuesday. In the weeks before highly stressful moments like finals, international trips and marriage, I find myself leaning into risky and arguably self-destructive behaviours. It doesn&amp;rsquo;t manifest as long lonely nights on the piss or reckless driving but instead an overwhelming urge to head towards the mountains with scraps of information, an inane goal and buckets full of will.&lt;/p&gt;&#xA;&lt;p&gt;But perhaps the biggest driver is that I&amp;rsquo;ve been frothing at the bit to do a trip worthy of a report &lt;a href=&#34;https://www.subw.org.au/2024/11/30/western-explorers-range/&#34;&gt;again&lt;/a&gt;.&lt;/p&gt;</description>
+      <description>&lt;p&gt;I am getting married on Tuesday. In the weeks before highly stressful moments like finals, international trips and marriage, I find myself leaning into risky and arguably self-destructive behaviours. It doesn&amp;rsquo;t manifest as long lonely nights on the piss or reckless driving but instead an overwhelming urge to head towards the mountains with scraps of information, an inane goal and buckets full of will.&lt;/p&gt;&#xA;&lt;p&gt;But perhaps the biggest driver is that I&amp;rsquo;ve been frothing at the bit to do a trip worthy of a report &lt;a href=&#34;https://www.subw.org.au/2024/11/30/western-explorers-range/&#34;&gt;again&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
