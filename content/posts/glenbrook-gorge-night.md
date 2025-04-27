@@ -4,20 +4,7 @@ draft = false
 title = 'Glenbrook Gorge Adventures'
 +++
 
-<style>
-  .float-left {
-    float: left;
-    margin-right: 1rem;
-    margin-bottom: 1rem;
-    max-width: 40%;
-    height: auto;
-  }
-  .float-left img {
-    width: 100%;
-    height: auto;
-  }
-</style>
-{{< figure src="/images/glenbrook-naked-jayden.jpg" class="float-left">}}
+{{< figure src="/images/glenbrook-naked-jayden.jpg">}}
 
 I am getting married on Tuesday. In the weeks before highly stressful moments like finals, international trips and marriage, I find myself leaning into risky and arguably self-destructive behaviours. It doesn't manifest as long lonely nights on the piss or reckless driving but instead an overwhelming urge to head towards the mountains with scraps of information, an inane goal and buckets full of will.
 

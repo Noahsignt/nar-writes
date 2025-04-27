@@ -1,5 +1,5 @@
 +++
-date = '2024-02-01T15:35:00+10:00'
+date = '2024-12-01T15:35:00+10:00'
 draft = false
 title = 'Western Explorer’s Range'
 +++
