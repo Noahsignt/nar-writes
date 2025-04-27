@@ -4,7 +4,7 @@ draft = false
 title = 'Glenbrook Gorge Adventures'
 +++
 
-{{< figure src="/images/glenbrook-naked-jayden.jpg" title="Jayden..." width="400">}}
+{{< figure src="/images/glenbrook-naked-jayden.jpg" width="200">}}
 
 I am getting married on Tuesday. In the weeks before highly stressful moments like finals, international trips and marriage, I find myself leaning into risky and arguably self-destructive behaviours. It doesn't manifest as long lonely nights on the piss or reckless driving but instead an overwhelming urge to head towards the mountains with scraps of information, an inane goal and buckets full of will.
 
