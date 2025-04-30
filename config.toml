@@ -1,4 +1,4 @@
-baseURL = 'https://nar-writes.vercel.app/'
+baseURL = 'https://narwrites.com'
 languageCode = 'en-us'
 title = 'Nar Writes'
 theme = 'ananke'
