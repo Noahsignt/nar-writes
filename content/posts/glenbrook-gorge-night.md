@@ -1,9 +1,11 @@
 ---
-date: '2025-04-17T15:35:00+10:00'
-title: 'Glenbrook Gorge Adventures'
+title: Glenbrook Gorge Adventures
+date: 2025-04-17T05:35:00.000Z
 ---
 
 I am getting married on Tuesday. In the weeks before highly stressful moments like finals, international trips and marriage, I find myself leaning into risky and arguably self-destructive behaviours. It doesn't manifest as long lonely nights on the piss or reckless driving but instead an overwhelming urge to head towards the mountains with scraps of information, an inane goal and buckets full of will.
+
+[IMG\_3383.HEIC](https://assets.tina.io/cb194766-0623-4e01-8341-062aa0876f40/IMG_3383.HEIC "IMG_3383.HEIC")
 
 But perhaps the biggest driver is that I've been frothing at the bit to do a trip worthy of a report [again](https://www.subw.org.au/2024/11/30/western-explorers-range/).
 
@@ -13,7 +15,7 @@ I was picked up at 6pm and we shared a kilogram of buffalo wings between us whil
 
 But before long we were strolling along a mostly fine track with neither of us arrested or even shouted at. It's actually a really lovely bit of bushwalking for how close is it to Sydney. We crawled through muggy tangles of overgrown bushes and hopped over large boulders underneath a full-enough moon. Night hiking is always quite surreal but being unable to see the stars above for the thrash of river woods feels like entering a whole other dimension. Eventually we found an indeterminate scramble, involving a kind of worm-like dance to get the rope, bag and myself up the scrub-choked dry dirt slope, which had us standing at the foot of some very intimidating and chossy sandstone walls. We traversed across right to the end of the cliff-line and found the start of "Daddy Long Legs" - a two-pitch mixed climb. I knew it was my lead and looked up at the daunting bulge adorning the top of the route.
 
-Now, according to the developers, this is a 13. For the non-climbing inclined, a 13 - especially a modern one - should be good vibes for an intermediate leader. Now as an intermediate leader myself, I get chewed up and spat out by this **** of a climb. The protection I was placing felt good enough but as I got further and further into this roof, I was just indiscriminately breaking foot and handholds. This was showering Jayden with rocks ranging from eye to fist sized and leaving me concerned about the quality of my placement. It's times like this, flailing in the dark on suspect rock, that you channel the latent force of a husband-to-be and you refuse to fall. Using the power of love, I found a beta that got me out of that hellish contortion, over the bugle and onto a easy dihedral. I let out a gorge-shaking yell, cruised up and placed my posterior on a 5 star belay ledge.
+Now, according to the developers, this is a 13. For the non-climbing inclined, a 13 - especially a modern one - should be good vibes for an intermediate leader. Now as an intermediate leader myself, I get chewed up and spat out by this \*\*\*\* of a climb. The protection I was placing felt good enough but as I got further and further into this roof, I was just indiscriminately breaking foot and handholds. This was showering Jayden with rocks ranging from eye to fist sized and leaving me concerned about the quality of my placement. It's times like this, flailing in the dark on suspect rock, that you channel the latent force of a husband-to-be and you refuse to fall. Using the power of love, I found a beta that got me out of that hellish contortion, over the bugle and onto a easy dihedral. I let out a gorge-shaking yell, cruised up and placed my posterior on a 5 star belay ledge.
 
 Jayden fought through it himself and immediately congratulated me on a heinous lead. I responded by telling him I was almost certainly going to bail once we got up to the next band of cliffs. However, the next pitch surprised us both with how awesome it was. I sat on belay and watched Jayden work his way through an easy corner before stretching himself across a suspect boulder and then disappearing into a cave at the top. All I could hear was the buzz of insects and the occasional cry of some valley bird punctuated by the whoops of a stoked mate and the far-off horn of the Blue Mountains train. I'd look over and watch the golden lights weave through the nooks and crannies of the valley before looking up to see Jayden in stark outline against a clear night of stars and a massive and ancient pine tree. Talk about surreal!
 
