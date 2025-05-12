@@ -16,7 +16,7 @@ export async function GET() {
         return { slug }
     })
 
-    const blogRoutes = posts?.map((post: { slug: string }) => `/blog/${post.slug}`) || []
+    const blogRoutes = posts?.map((post: { slug: string }) => `/blog${post.slug}`) || []
 
     const allRoutes = [...staticRoutes, ...blogRoutes]
 
