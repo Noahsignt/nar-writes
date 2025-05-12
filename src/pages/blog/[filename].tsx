@@ -26,26 +26,11 @@ const BlogPage = (props) => {
         />
       </Head>
       <div>
-        <div
-          style={{
-            textAlign: 'center',
-          }}
-        >
+        <div>
           <h1 className='text-3xl m-8 text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>
             {data.post.title}
           </h1>
           <ContentSection content={data.post.body}></ContentSection>
-        </div>
-        <div className='bg-green-100 text-center'>
-          Lost and looking for a place to start?
-          <a
-            href='https://tina.io/guides/tina-cloud/getting-started/overview/'
-            className='text-blue-500 underline'
-          >
-            {' '}
-            Check out this guide
-          </a>{' '}
-          to see how add TinaCMS to an existing Next.js site.
         </div>
       </div>
     </>
@@ -103,7 +88,7 @@ const components = {
 
 const ContentSection = ({ content }) => {
   return (
-    <div className='relative py-16 bg-white overflow-hidden text-black'>
+    <div className='relative bg-white overflow-hidden text-black'>
       <div className='hidden lg:block lg:absolute lg:inset-y-0 lg:h-full lg:w-full'>
         <div
           className='relative h-full text-lg max-w-prose mx-auto'
@@ -208,7 +193,7 @@ const ContentSection = ({ content }) => {
         </div>
       </div>
       <div className='relative px-4 sm:px-6 lg:px-8'>
-        <div className='text-lg max-w-prose mx-auto'>
+        <div className='text-lg max-w-prose mx-auto flex flex-col gap-4'>
           <TinaMarkdown components={components} content={content} />
         </div>
       </div>
