@@ -29,6 +29,18 @@ export default defineConfig({
   schema: {
     collections: [
       {
+        label: 'Homepage',
+        name: 'homepage',
+        path: 'content/',
+        fields: [
+          {
+            type: 'image',
+            name: 'banner',
+            label: 'Banner Image',
+          },
+        ],
+      },
+      {
         name: "post",
         label: "Posts",
         path: "content/posts",

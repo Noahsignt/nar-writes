@@ -5,18 +5,31 @@
 import Link from 'next/link'
 import client from '../../tina/__generated__/client'
 
-// Fetch posts directly within a Server Component
+
+const fetchHomepage = async () => {
+  const homepageData = await client.queries.homepage({ relativePath: 'homepage.md' })
+  return homepageData.data.homepage
+}
+
 const fetchPosts = async () => {
   const postsListData = await client.queries.postConnection()
   return postsListData.data.postConnection.edges
 }
 
 const HomePage = async () => {
-  const posts = await fetchPosts()  // Directly await the data
+  const homepage = await fetchHomepage()
+  const posts = await fetchPosts()
 
   return (
-    <div className="container mx-auto px-4 py-16">
-      <h1 className="text-4xl font-bold text-center mb-8">Blog</h1>
+    <div className="container mx-auto py-16">
+      {homepage.banner && (
+        <img
+          src={homepage.banner}
+          alt="Homepage Banner"
+          className="w-full h-64 object-cover rounded-lg mb-8"
+        />
+      )}
+      <h1 className="text-4xl font-bold text-center mb-8">Nar Writes</h1>
       <div className="space-y-4">
         {posts.map((post) => (
           <div key={post.node._sys.filename} className="p-6 border-b">
