@@ -16,11 +16,11 @@ export async function GET() {
         return { slug }
     })
 
-    const blogRoutes = posts?.map((post: { slug: string }) => `/blog${post.slug}`) || []
+    const blogRoutes = posts?.map((post: { slug: string }) => `/blog/${post.slug}`) || []
 
     const allRoutes = [...staticRoutes, ...blogRoutes]
 
-    const baseUrl = 'https://www.narwrites.com/'
+    const baseUrl = 'https://www.narwrites.com'
 
     const sitemapXml = `<?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
