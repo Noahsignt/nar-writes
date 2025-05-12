@@ -35,7 +35,7 @@ export async function GET() {
         .join('')}
     </urlset>`
 
-    return NextResponse.json(sitemapXml, {
+    return new Response(sitemapXml, {
         headers: { 'Content-Type': 'application/xml' },
     })
     } catch (error) {
