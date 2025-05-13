@@ -27,3 +27,7 @@ We basked in the well deserved cool after a long day of hiking and climbing. The
 Jayden and I partook in a traditional post climbing meal. Kilograms of noodles, cheese, eggs and tofu. Designed to constipate the intrepid climber. We then drove out to Black Range and had a lovely night and morning lying around in the sun-dappled glade of our roadside campsite.
 
 ![Photo of Mate Cooking Food out of Back of Car](/black_range_camp.jpg "Domestic Bliss")
+
+We then went bouldering. But who cares about bouldering. 
+
+[https://www.youtube.com/watch?v=iur9ALOuEBE](https://www.youtube.com/watch?v=iur9ALOuEBE)
