@@ -15,5 +15,5 @@ It did all feel worth it when we got to the top of the crag. It's a quiet and ex
 
 We eventually decided on Running Crack (12), a true early-morning grovel. We then moved onto the second pitch of Marmalade (11). This was very fun. Perfect hand and foot jams up a well-protected corner. I then finally built a trad anchor. That felt massive.
 
-\
+![Trad Anchor In Booroomba Rocks](/booroomba_anchor.jpg "My Beautiful Anchor")\
 ![Sunset at Booroomba](/booroomba_sunset.jpg "A Well-Deserved Ending")
