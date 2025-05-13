@@ -16,4 +16,14 @@ It did all feel worth it when we got to the top of the crag. It's a quiet and ex
 We eventually decided on Running Crack (12), a true early-morning grovel. We then moved onto the second pitch of Marmalade (11). This was very fun. Perfect hand and foot jams up a well-protected corner. I then finally built a trad anchor. That felt massive.
 
 ![Trad Anchor In Booroomba Rocks](/booroomba_anchor.jpg "My Beautiful Anchor")\
+We soloed some easy stuff up to the top of the buttress and then decided there was much more climbing to be done. The hike over to the North Buttress quickly went from pleasant to miserable.  There probably is a track but we were not on it. We ran out of water with plenty of bushbashing to go and the promise of 4 pitches in the sun on a climb called Sunstroke (9). We figured we needed to suffer and so we just kept going. It was about 2:30PM and after 2 hours of bushbashing when we finally found the start. 
+
+There isn't too much to say on the climb front. It's great. It's super easy, well protected and up a clear and distinct weakness in the wall. It was getting very thirsty by the top but I was literally building the last anchor as the sun dipped behind the hills.
+
 ![Sunset at Booroomba](/booroomba_sunset.jpg "A Well-Deserved Ending")
+
+We basked in the well deserved cool after a long day of hiking and climbing. The final hike back dragged on and on but all was well when we made it back to the car.\
+\
+Jayden and I partook in a traditional post climbing meal. Kilograms of noodles, cheese, eggs and tofu. Designed to constipate the intrepid climber. We then drove out to Black Range and had a lovely night and morning lying around in the sun-dappled glade of our roadside campsite.
+
+![Photo of Mate Cooking Food out of Back of Car](/black_range_camp.jpg "Domestic Bliss")
