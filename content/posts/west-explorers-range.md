@@ -1,5 +1,9 @@
 ---
 title: Western Explorer’s Range
+tags:
+  - trip-report
+  - hiking
+  - sydney
 date: 2024-12-01T05:35:00.000Z
 ---
 

@@ -1,5 +1,10 @@
 ---
 title: Glenbrook Gorge Adventures
+tags:
+  - sydney
+  - trip-report
+  - climbing
+  - trad
 date: 2025-04-17T05:35:00.000Z
 ---
 

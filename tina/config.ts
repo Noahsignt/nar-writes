@@ -53,6 +53,15 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "string",
+            name: "tags",
+            label: "Tags",
+            list: true,
+            ui: {
+              component: "tags",
+            },
+          },
+          {
             type: "datetime",
             name: "date",
             label: "Date",

@@ -13,6 +13,8 @@ const BlogPage = (props) => {
     data: props.data,
   })
 
+  console.log(JSON.stringify(data.post.tags));
+
   return (
     <>
       <Head>
@@ -27,9 +29,20 @@ const BlogPage = (props) => {
       </Head>
       <div>
         <div>
-          <h1 className='text-3xl m-8 text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>
+          <h1 className='text-3xl m-6 text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>
             {data.post.title}
           </h1>
+          <div className="flex justify-center gap-2 mb-4 px-2 py-1">
+            <span>tags: </span>
+            {data.post.tags?.sort().map((tag, idx) => (
+              <span
+                key={tag}
+                className="inline-block text-gray-800 text-xs rounded-full text-sm md:text-base"
+              >
+                {tag}{idx !== data.post.tags.length - 1 && ', '}
+              </span>
+            ))}
+          </div>
           <ContentSection content={data.post.body}></ContentSection>
         </div>
       </div>
