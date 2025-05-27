@@ -29,11 +29,17 @@ const BlogPage = (props) => {
       </Head>
       <div>
         <div>
-          <h1 className='text-3xl m-6 text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>
+          <h1 className='text-3xl m-4 text-center leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl'>
             {data.post.title}
           </h1>
+          <div className="flex justify-center gap-2 px-2 py-1 text-gray-700 text-lg">
+            {new Date(data.post.date).toLocaleDateString('en-US', {
+              year: 'numeric',
+              month: 'long',
+              day: 'numeric',
+            })}
+          </div>
           <div className="flex justify-center gap-2 mb-4 px-2 py-1">
-            <span>tags: </span>
             {data.post.tags?.sort().map((tag, idx) => (
               <span
                 key={tag}
