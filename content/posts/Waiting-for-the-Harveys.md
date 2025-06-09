@@ -1,0 +1,17 @@
+---
+title: Waiting for the Harveys
+tags:
+  - sydney
+  - bike-packing
+date: 2025-06-08T14:00:00.000Z
+---
+
+I tend to go on good trips when Sam is involved. The first time we went away is still one of my favourite from the canon. It was the 2023 Easter long weekend and we had been talking about going on an overnighter together for ages. I was pretty keen on taking a revenge tour through the Budawangs after a miserable, rain-sodden weekend earlier in the year. In my opinion, the 50km round trip from Wog Wog Campground to the Castle is one of the great Australian walks. It includes the hugely brilliant Corang Arch, Corang Peak with endless views to coast and the ocean, navigating the aptly named Monolith Valley and a final, triumphant scramble up the Castle proper. With a brochure like that, it was difficult for Sam and I to lend too much weight to the forecasts. We planned on heading up on the Friday and crushing as much as we could from the late morning and into the night if need be. See below for an image of the expected conditions that night.
+
+![](/weather.jpg)
+
+Honestly, it was easy enough to convince ourselves that the forecasts were overblown as we crushed some distance out from Wog Wog. Darkening skies did little to dampen the spirits as we were treated to expansive views of the South Coast alpine. When the rain started we were looking at about another 10km to guaranteed shelter in the caves of Mt. Cole. We found a protected out-crop to eat some processed meat and for Sam to don a beautiful pink poncho. He dropped his cheese but addressed it by rubbing it along his leg hairs - licking and spitting as he went. Oh Sam. 
+
+The fun dwindled massively after that. We scrambled down from the refuge, both of us mildly hypothermic, before crossing an ankle deep river occupying the space of our Plan B camp. However, it wasn't anything scary, just a bit of heavy rain and so we decided to keep pushing. By the time it was getting dark, we were looking at an easy 3km along the ridge and then a warm, dry night in the caves. What we got instead was 45 minutes of frantic hiking in the midst of some of the most deafening, head-shaking, ball-shrinking lightning I've ever been privy to. I was the tallest point for a kilometre (much taller than Sam) and actually felt that my end was imminent as every step tested divine resolve. By the time we got to the camp, we were shell-shocked and sat mute and clueless around a stranger's fire before falling asleep in the dust and out of the storm. The rest of the trip was excellent and has led to lifelong friends and countless other stories due to a chance meeting in the following days but it's unimportant. 
+
+For a man who goes outdoors twice a year, Sam can really suffer. 
