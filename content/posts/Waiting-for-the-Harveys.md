@@ -40,6 +40,8 @@ Now, that morning, Sam confused us all with a desire to bail. I was pretty grump
 
 And now, I hate to spoil it, but that is pretty much the climax of this story. The rest of the trip was nothing but delightful. Sam, Jez and I covered the distance to Wiseman's Ferry rapidly, including a nice long break at Spencer - the centre of the universe - and a half-assed attempt at a swim in a very cold Hawkesbury. We spent the afternoon eating and drinking at progressively shitter pubs before deciding the society life was not for us and spending the rest of the afternoon lying in the plush grass of an abandoned golf course. Stingy Sam and his brother tried to extort $30 from me to sleep on their floor and so after more food I made my way back down to the park, laid down my tarp and tried to sleep. 
 
+![](/IMG_3855.jpg)
+
 You would've thought I had learnt my lesson about sleeping in public parks but alas. I spent that night listening to crooner tunes blast across the water until deep into the next day. I'd get up to piss and gaze across trying to discern the source of this anachronistic noise but would only see a green light flashing on the other end. Yes, that's right, it was literally 'The Great Gatsby'. 
 
 The next day, we reconvened in the early morning cold, smashed gas station coffees and blew up the hotel bathroom. Then it was smooth sailing all the way to Riverstone and the terminus of our trip. And so, while I really just wanted to write about the trip, I couldn't help but make this a love letter to the Harvey's - it's always worth waiting at the top of the hill for your mates.
