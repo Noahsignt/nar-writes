@@ -2,7 +2,6 @@
 // @ts-nocheck
 
 // app/page.js or app/home/page.js
-import Link from 'next/link'
 import client from '../../tina/__generated__/client'
 import PostList from './PostList'
 
