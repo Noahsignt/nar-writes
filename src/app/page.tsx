@@ -32,7 +32,7 @@ const HomePage = async () => {
       <h1 className="text-4xl font-bold text-center mb-2">Nar Writes</h1>
       <div className="space-y-4">
         {posts.map((post) => (
-          <div key={post.node._sys.filename} className="p-6 border-b">
+          <div key={post.node._sys.filename} className="p-6 border-b mb-8">
             <div className="flex items-center justify-between flex-wrap gap-2">
               <h2 className="text-2xl font-semibold">
                 <Link href={`/blog/${post.node._sys.filename}`}>
