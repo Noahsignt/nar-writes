@@ -21,7 +21,7 @@ const HomePage = async () => {
   const posts = await fetchPosts()
 
   return (
-    <div className="container mx-auto py-16">
+    <div className="container mx-auto py-8 px-4">
       {homepage.banner && (
         <img
           src={homepage.banner}
@@ -29,7 +29,7 @@ const HomePage = async () => {
           className="w-full h-64 object-cover rounded-lg mb-8"
         />
       )}
-      <h1 className="text-4xl font-bold text-center mb-2">Nar Writes</h1>
+      <h1 className="text-2xl font-mono mb-8">nar writes</h1>
       <PostList posts={posts} />
     </div>
   )

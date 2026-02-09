@@ -21,7 +21,7 @@ const PostList = ({ posts }) => {
 
   return (
     <>
-      <div className="mb-6 text-center font-mono text-sm">
+      <div className="mb-8 font-mono text-sm">
         filter:{' '}
         {tags.map((tag) => (
           <button
@@ -34,24 +34,18 @@ const PostList = ({ posts }) => {
           </button>
         ))}
       </div>
-      <div className="space-y-4">
+      <div className="space-y-6">
         {filteredPosts.map((post) => (
-          <div key={post.node._sys.filename} className="p-6 border-b mb-8">
-            <div className="flex items-center justify-between flex-wrap gap-2">
-              <h2 className="text-2xl font-semibold">
-                <Link href={`/blog/${post.node._sys.filename}`}>
-                  <p className="text-gray-900 hover:underline">{post.node.title}</p>
-                </Link>
-              </h2>
-              <div className="flex flex-wrap gap-2 text-sm text-gray-600">
-                {post.node.tags?.sort().map((tag) => (
-                  <span key={tag} className="px-2 py-1 rounded-full">
-                    {tag}
-                  </span>
-                ))}
-              </div>
+          <div key={post.node._sys.filename} className="pb-6 border-b mb-8">
+            <Link href={`/blog/${post.node._sys.filename}`}>
+              <h2 className="text-lg font-mono hover:underline mb-2">{post.node.title}</h2>
+            </Link>
+            <div className="flex flex-wrap gap-2 text-xs text-gray-600 mb-2 font-mono">
+              {post.node.tags?.sort().map((tag) => (
+                <span key={tag}>{tag}</span>
+              ))}
             </div>
-            <p>{post.node.body.children[0].children[0].text}..</p>
+            <p className="text-sm text-gray-700">{post.node.body.children[0].children[0].text}..</p>
           </div>
         ))}
       </div>
