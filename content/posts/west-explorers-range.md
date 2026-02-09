@@ -1,10 +1,34 @@
 ---
-title: Western Explorer’s Range
+title: Western Explorer's Range
 tags:
   - trip-report
   - hiking
   - sydney
 date: 2024-12-01T05:35:00.000Z
+routeColor: '#06A77D'
+route:
+  - lat: -33.57940466142538
+    lng: 150.36408391103456
+  - lat: -33.6029360243189
+    lng: 150.3731551496112
+  - lat: -33.60442358425438
+    lng: 150.389833530172
+  - lat: -33.5984665058437
+    lng: 150.40307348081055
+  - lat: -33.59005896579526
+    lng: 150.42849681722348
+  - lat: -33.60140818635057
+    lng: 150.43383276664662
+  - lat: -33.60783688528012
+    lng: 150.4088645501476
+  - lat: -33.59718734544772
+    lng: 150.40658250888487
+  - lat: -33.60451079232042
+    lng: 150.38976923381736
+  - lat: -33.59942357830393
+    lng: 150.3700698478638
+  - lat: -33.579613683106174
+    lng: 150.36514910113436
 ---
 
 My hiking trips come at only inopportune times. We were looking at doing some canyoning on Saturday but the threat of lots of rain and thunder had me thinking about a bit of exploratory walking instead. The only real parameters I had for the trip were that it should involve a bit of rough walking somewhere new and that it should incur a bit of suffering. In the end, this offering was only taken up by one of my dear friends after every other interested person pulled out. So on Friday night I drove out to Mt. Banks and slept in the car. By 8:30AM Will and I were smashing it up Mt. Banks with an eye towards a traverse of the Western Explorer's Range.
