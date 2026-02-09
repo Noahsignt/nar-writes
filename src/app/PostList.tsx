@@ -5,12 +5,20 @@
 
 import { useState } from 'react'
 import Link from 'next/link'
+import { useRouter } from 'next/navigation'
 
 const PostList = ({ posts }) => {
   const [selectedTag, setSelectedTag] = useState(null)
+  const router = useRouter()
 
   const toggleTag = (tag) => {
     setSelectedTag(selectedTag === tag ? null : tag)
+  }
+
+  const getRandomPost = () => {
+    const randomIndex = Math.floor(Math.random() * posts.length)
+    const randomPost = posts[randomIndex]
+    router.push(`/blog/${randomPost.node._sys.filename}`)
   }
 
   const filteredPosts = selectedTag
@@ -21,18 +29,29 @@ const PostList = ({ posts }) => {
 
   return (
     <>
-      <div className="mb-8 font-mono text-sm">
-        filter:{' '}
-        {tags.map((tag) => (
+      <div className="mb-8 font-mono text-sm flex flex-wrap items-center justify-between gap-2">
+        <div className="flex flex-wrap items-center gap-2">
+          <span>filter:{' '}</span>
+          {tags.map((tag) => (
+            <button
+              key={tag}
+              onClick={() => toggleTag(tag)}
+              className={`cursor-pointer group ${selectedTag === tag ? 'font-bold' : ''}`}
+            >
+              <span className="opacity-0 group-hover:opacity-100 transition-opacity">{'>'}</span>
+              {selectedTag === tag ? `[${tag}]` : tag}
+            </button>
+          ))}
+        </div>
+        <div className="w-full sm:w-auto border-t sm:border-t-0 pt-2 sm:pt-0 mt-2 sm:mt-0 text-center sm:text-left">
           <button
-            key={tag}
-            onClick={() => toggleTag(tag)}
-            className={`mx-1 cursor-pointer group ${selectedTag === tag ? 'font-bold' : ''}`}
+            onClick={getRandomPost}
+            className="cursor-pointer group"
           >
             <span className="opacity-0 group-hover:opacity-100 transition-opacity">{'>'}</span>
-            {selectedTag === tag ? `[${tag}]` : tag}
+            [surprise me]
           </button>
-        ))}
+        </div>
       </div>
       <div className="space-y-6">
         {filteredPosts.map((post) => (
