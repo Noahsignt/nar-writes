@@ -68,6 +68,30 @@ export default defineConfig({
             required: true,
           },
           {
+            type: "object",
+            name: "route",
+            label: "Route Coordinates",
+            list: true,
+            fields: [
+              {
+                type: "number",
+                name: "lat",
+                label: "Latitude",
+              },
+              {
+                type: "number",
+                name: "lng",
+                label: "Longitude",
+              },
+            ],
+          },
+          {
+            type: "string",
+            name: "routeColor",
+            label: "Route Color (hex code)",
+            description: "e.g. #E63946",
+          },
+          {
             type: "rich-text",
             name: "body",
             label: "Body",

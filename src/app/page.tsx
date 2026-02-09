@@ -2,6 +2,7 @@
 // @ts-nocheck
 
 // app/page.js or app/home/page.js
+import Link from 'next/link'
 import client from '../../tina/__generated__/client'
 import PostList from './PostList'
 
@@ -29,7 +30,12 @@ const HomePage = async () => {
           className="w-full h-64 object-cover rounded-lg mb-8"
         />
       )}
-      <h1 className="text-2xl font-mono mb-8">nar writes</h1>
+      <div className="flex items-center justify-between mb-8">
+        <h1 className="text-2xl font-mono">nar writes</h1>
+        <Link href="/map" className="font-mono text-sm hover:underline">
+          map →
+        </Link>
+      </div>
       <PostList posts={posts} />
     </div>
   )

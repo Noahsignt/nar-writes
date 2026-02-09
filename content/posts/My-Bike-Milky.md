@@ -5,6 +5,16 @@ tags:
   - bike-packing
   - essay
 date: 2026-01-30T13:00:00.000Z
+route:
+  - lat: -34.4479
+    lng: 150.8747
+  - lat: -34.5124
+    lng: 150.6821
+  - lat: -34.7374
+    lng: 150.5219
+  - lat: -34.7785
+    lng: 150.7044
+routeColor: '#E63946'
 ---
 
 The hero of this story is my bike Milky. The constraints: zero research or knowledge on bicycles, minimal time spent browsing Facebook Marketplace, a milk-crate stolen off the side of Norton St. The outcome: thousands of kilometres around the Greater Sydney area, hours spent replacing an absurdly worn second-hand drive-train and a milk-crate that has carried things for every version of myself - the office drone to the dirtbag climber.
