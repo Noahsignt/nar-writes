@@ -32,9 +32,14 @@ const HomePage = async () => {
       )}
       <div className="flex items-center justify-between mb-8">
         <h1 className="text-2xl font-mono">nar writes</h1>
-        <Link href="/map" className="font-mono text-sm hover:underline">
-          map →
-        </Link>
+        <div className="flex gap-4 font-mono text-sm">
+          <Link href="/photos" className="hover:underline">
+            photos →
+          </Link>
+          <Link href="/map" className="hover:underline">
+            map →
+          </Link>
+        </div>
       </div>
       <PostList posts={posts} />
     </div>
