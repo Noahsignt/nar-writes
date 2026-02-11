@@ -1,11 +1,10 @@
 ---
-title: Waiting for the Harvey's
+title: Waiting for the Harveys
 tags:
   - sydney
   - bike-packing
   - trip-report
 date: 2025-06-08T14:00:00.000Z
-routeColor: '#4A90E2'
 route:
   - lat: -33.346113603552226
     lng: 151.37134596036572
@@ -25,6 +24,7 @@ route:
     lng: 150.86091351218695
   - lat: -33.604291476559084
     lng: 150.82368799498707
+routeColor: '#4A90E2'
 ---
 
 I tend to go on good trips when Sam is involved. The first time we went away is still one of my favourite from the canon. It was the 2023 Easter long weekend and we had been talking about going on an overnighter together for ages. I was pretty keen on taking a revenge tour through the Budawangs after a miserable, rain-sodden weekend earlier in the year. In my opinion, the 50km round trip from Wog Wog Campground to the Castle is one of the great Australian walks. It includes the hugely brilliant Corang Arch, Corang Peak with endless views to coast and the ocean, navigating the aptly named Monolith Valley and a final, triumphant scramble up the Castle proper. With a brochure like that, it was difficult for Sam and I to lend too much weight to the forecasts. We planned on heading up on the Friday and crushing as much as we could from the late morning and into the night if need be. See below for an image of the expected conditions that night.
@@ -65,4 +65,4 @@ And now, I hate to spoil it, but that is pretty much the climax of this story. T
 
 You would've thought I had learnt my lesson about sleeping in public parks but alas. I spent that night listening to crooner tunes blast across the water until deep into the next day. I'd get up to piss and gaze across trying to discern the source of this anachronistic noise but would only see a green light flashing on the other end. Yes, that's right, it was literally 'The Great Gatsby'.
 
-The next day, we reconvened in the early morning cold, smashed gas station coffees and blew up the hotel bathroom. Then it was smooth sailing all the way to Riverstone and the terminus of our trip. And so, while I really just wanted to write about the trip, I couldn't help but make this a love letter to the Harvey's - it's always worth waiting at the top of the hill for your mates.
+The next day, we reconvened in the early morning cold, smashed gas station coffees and blew up the hotel bathroom. Then it was smooth sailing all the way to Riverstone and the terminus of our trip. And so, while I really just wanted to write about the trip, I couldn't help but make this a love letter to the Harveys - it's always worth waiting at the top of the hill for your mates.
