@@ -95,9 +95,9 @@ One American evening, we sat on other sides of the phone, crossing off a dwindli
 
 The ceremony was booked on a cheap website about a month out. We pitched it to her stunned parents over the phone. After the call ended, we laughed at how much easier it was than expected. They just wanted to hear that I loved her.
 
-Two weeks before Joey was due to fly into Sydney, my mother called me to tell me she’d gone to hospital. It’s ridiculous that your own immune system can rebel against you and it’s plain rude when it’s done just before your son’s wedding. My sister and I visited her in hospital. She cried when we spoke about the upcoming wedding. I told Mum that Joey had made me promise we’d spend every day of our honeymoon with her. 
+Two weeks before Joey was due to fly into Sydney, my mother called me to tell me she’d gone to hospital. It’s ridiculous that your own immune system can rebel against you and it’s plain rude when it’s done just before your son’s wedding. My sister and I visited her in hospital. She cried. I told Mum that Joey had made me promise we’d spend every day of our honeymoon with her. 
 
-Mum made it out two days before the ceremony. On a perfect autumn night, the wedding party retreated to a gazebo in the local park. The boys took their shirts off in the evening humidity and belted out Silver Jews. Before long it was LCD Soundsystem and the entirety of my world was up and dancing together.
+Mum made it out two days before the ceremony. On a perfect autumn night, the party retreated to a gazebo in the local park. The boys took their shirts off in the evening humidity and belted out Silver Jews. Before long it was LCD Soundsystem and the entirety of my world was up and dancing together.
 
 We settled on our vows in the Uber to the wedding by passing back and forth a tattered copy of “The Prophet”. She picked a passage about eternal love and I picked something about climbing mountains. We realised we left our rings at the hotel and shared a kiss anyway. It rained the entire time and was comfortably the best day of my life.
 
