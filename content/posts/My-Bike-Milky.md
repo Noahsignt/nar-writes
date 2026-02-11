@@ -34,7 +34,6 @@ route:
     lng: 150.6502230785087
   - lat: -34.77437482057236
     lng: 150.70205358952856
-
 routeColor: '#E63946'
 ---
 
@@ -46,19 +45,13 @@ I’ve spent a lot of time on this bike and if you spend enough time with a piec
 
 Honestly, I long ago gave up on the pursuit of perfection in regards to this bike. The value it brings is what I can do in spite of it. It’s a vehicle of contradictions. On the one end is knocking over an entire bike rack as I try to get the beast out. On the other is the joy of riding your own handiwork and seeing the familiar world in a brand new light.
 
----
+***
 
 It was the January long weekend and I was off alone on a bikepacking trip around the NSW Southern Highlands. This trip started off resoundingly well. On Friday night, I clocked out of the office and wheeled my bike down to the station. I propped it up against a wall, hurried into the bathroom and swapped out my jeans for a pair of suitably green shorts. Dressed for adventure, I hopped on the southbound towards Mittagong.
 
 By the time I got there I was itching for adventure and started pounding up the local hill. As I switched into first gear, I heard a sound I was to get very familiar with: my bent rear derailleur smacking the spokes of my wheel. 
 
 *tatatatatatatatatatatatatatatatatatatatata*
-
-*tatatatatatatatatatat*
-
-*tatatattatatat*
-
-*tatattatatatatata*
 
 That night, I wheeled Milky into the scrub a few metres off the track and nestled myself behind large granite boulders to block the gaze of early-morning dog walkers. With no space for my tent, I laid out in the open and stared at the stars working through plans for the next few days in my head. The sound of the derailleur played through my head as I planned the distances. 80ks tomorrow. If the bike carked it mid-way through, I’d be at least 20ks on foot from the nearest town. 30kg of bike and gear to push in the January heat. Typical solo adventure anxieties. The type of thoughts remedied only by the fear of returning back to Sydney and having to explain all weekend why I was home early.
 
@@ -70,7 +63,7 @@ By the afternoon I was looking at 20ks of fire-trail to camp, almost entirely do
 
 At camp, I threw Milky to the ground, immediately stripped and ran down to the river. We needed some space. After an entire block of Cadbury, a pouch of tuna, an apple, a bag of Red Rock Deli chips, a granola bar, some Jatz, a heaping of cheese and half a tube of cured chorizo, I felt much better and apologised to her. By the time other people rolled into camp I had got her upright, pumped the tires and reindexed the gears. Stationed next to my tent, we made quite the aesthetic couple.
 
----
+***
 
 The morning climb up to Kangaroo Valley was a slog. After a well-deserved coffee and roll, an old man approached me in the toilet block but fortunately just to ask me where I was headed. I told him over the mountain and down to Berry. He gave me a knowing shake of the head.
 
@@ -94,7 +87,7 @@ At the junction I took the old men’s advice and turned left. I watched the ste
 
 But I couldn’t help myself. I began to think about the hard road. I had never made a sensible choice in my life. 
 
----
+***
 
 The planning of our wedding was a comedy of errors. Our relationship had been hard enough. Weeks together scraped off years of long distance 16,000km apart. For the past few months we had been trying to figure out what was needed to get me living over in America with her. 
 
@@ -118,7 +111,7 @@ Amidst her tears, I told her everything would be alright and we’d just sleep a
 
 We came back to a bare mattress, my brother having stripped it after finding out he had brought a bedbug infestation home. So we spent our last night together for 9 months, lying on a broken bed frame, sharing a sleeping bag and a single stuff sack with a down jacket inside. 
 
----
+***
 
 I could see the grand sandstone walls of the escarpment towering above me. Farms are great, but mountains? Mountains are ceremonies drenched in rain. Endless afternoons without her for the chance at a few days together.
 
@@ -140,7 +133,7 @@ But I refused to believe the trip was to end here. I watched YouTube videos on h
 
 On the train home I sat beside her. Her once proud figure, reduced to tatters. A milk crate held up by twine and a ski-strap. It was easy to be sad. Yet, it had been a good weekend. You can only push so hard. So I sat, stinking up the carriage, browsing Facebook Marketplace for second-hand gravel bikes. I stared at the screen for a few seconds and decided to close the app.
 
----
+***
 
 It was a miserably cold August day in the new house. Rain had been pouring in from a leak in the roof for hours. The bucket underneath had filled with water overnight. I started my day by swapping out the soaked towels underneath. After a coffee in the grey, I sat at my desk to call my wife.
 
@@ -154,6 +147,6 @@ A quiet beat.
 
 I tried to make sense of the texture of my wall. The cold, crinkled plaster. I counted the folds in it as I waited for her to respond and pressed my arm into the space behind my bed. I felt the cold and flicked the damp off. The paint was stippled. I felt tiny peaks and ridges along the expanse of the wall. I tapped my phone to see if she was still on the line. 
 
----
+***
 
 I opened Facebook Marketplace up again. Milky sat beside me. My finger hovered over the search bar. I stared at the grime-covered bike chain and decided to read my book instead.
